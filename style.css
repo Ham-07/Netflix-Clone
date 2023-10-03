@@ -1,0 +1,72 @@
+body{
+    
+    background-image: url("2.jpg");
+    background-size: cover;
+}
+nav{
+    font-family: sans-serif;
+    display: flex;
+
+
+}   
+#heading{
+    color: red;
+    font-size: 40px;
+        font-weight: 800;
+        position: relative;
+        top: -40px;
+        left: 30px;
+    
+}
+#select{
+    float: right;
+    font-size: 20px;
+    position: relative;
+    left: 470px;
+    float: right;
+    font-size: 20px;
+    position: relative;
+    float: right;
+    font-size: 20px;
+    top: 9px;
+
+}
+#button{
+    
+    
+   
+
+    font-size: 20px;
+    position: relative;
+    left: 950px;
+    top: 15px;
+    
+
+}
+button{
+    background-color: red;
+    border-radius: 4px;
+    color: white;
+    font-size: 18px;
+    font-weight: 400px;
+}
+#main{
+display: flex;
+
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
+#bold{
+    color: white;
+    padding: 10px;
+    display: block;
+}
+#less{
+    color: white;
+    display: block;
+    
+}
+p{
+    color: white;
+}
